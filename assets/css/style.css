@@ -1218,7 +1218,7 @@ button {
 }
 .ul-banner-slide {
   padding: clamp(250px, 16.29vw, 310px) clamp(15px, 5.25vw, 100px) clamp(180px, 12.61vw, 240px);
-  background: url(../img/banner-slide-1.jpg) no-repeat center center;
+  background: url(../img/banner_bg_1.png) no-repeat center center;
   background-size: cover;
   position: relative;
   z-index: 1;
